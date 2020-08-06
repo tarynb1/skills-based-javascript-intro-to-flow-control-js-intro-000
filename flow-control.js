@@ -9,6 +9,8 @@ function teenager(age) {
     if (age <= 19) {
         return "You are a teenager!"
     }
+    else 
+        return "you are not a teenager"
   }
 
 
